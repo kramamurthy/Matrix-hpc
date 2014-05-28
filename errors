@@ -1,0 +1,1 @@
+gcc -g -I/home/kiran/Softwares/gpb/build/include/ -L/home/kiran/Softwares/gpb/build/lib/ -c matrix_server.cpp matrix_server.cpp -lstdc++ -lrt -lpthread -lm -lc -lprotobuf
